@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lucky-wonder-280516",
+  "private_key_id": "db9f6209fc05aa3965decbefe40c769d03c3b8ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnGvjDbPu2sakz\n2X4+oy2PkFwGftP2/vLaE5UW7ffBLSYPT90RV5q0yvJfXdWkrx7DfQHKH1P8kiPp\n+C8DUuy5GZb652WMVlRi0wF3AUWT3M9YakVE4snrnwoNVOgDVtVT+is7GOI9F49k\nWu8UPdnhRmpMgbWmP7dK2eINJmjZv91T7jf5zdYQ3ws8lUsWQsZT2+07jWo9Rv5Z\ndyN2M+P08oxRiTA5CW9x2JRqsabgzat9pk6MBf9CfI5fvKqZ/5YysQT+j9mgOnss\ne581578YRXifkIpCcP4RZFxrGcD4G7G2khpCF33dkWM+2Dd2AiiDy5j9O1lBWJUc\nwemCKRhtAgMBAAECggEAH5RASKYy126xnCPQ8MNjm8rbKTsUkYvSlxW2ShQEixQe\nKiyciWd1zA7CSPVxp2KUvLrF+M180LFJajDFqaolJEHKv3W1QhUac2aO00+BN5U1\n9e53UrJNGGMAwk42XlMtk2Ymf0+PiZ4HMh7hKYEayLDG69hjXJyT5ehRCM0maWfD\nPrjPwerHIt5geSfk8pIRHvZG0nmBxmKSuO/5RCPhP5lTevw0rfnQsvwp59ia4R5E\nr1t1dsTKejBcixlRwGz1hhySmcjB9hX4DiAgTFXjIusgU6y+6gJbskUD8ViJe63L\n7RLiRxyqq6jdAlPF+jx7JAVyySRkWxTlhQKfrAhWnQKBgQDkD9/TIVXiNswp9yNc\ndA8ZH5LoinnNLnyXhVGUPzoF3u2/ktT5kNb4WW9aTW9dEp4/HZ4CZFRDU4LIiVC0\npPl3cEyHtrMBOGLeWwMy68ZUSV1e/eqwYuGw5cBZiwWXSPvl8T94UORn8PDKCp2b\nN7n67U0PiWH4q8WSin7R4nLuowKBgQC7k3hG+5jGkiGHLf9a9NH5nwnVhwwgMQit\nvMuzt0XShYByc4MrjarFtUeenMiGqgJoZL4DOdurNjVZiX19/iU60/XOfIXZkP97\nfvjWhlF3MZShASR8KOmdkH8Ruszv3XtKUPQkWbA6MZe3ldE6Pu8U9ZXl8HdEMcC4\nU3aRS6qdrwKBgCKWMbigPpke/FmE7GzyAPQrcKkpjw1J9oU4J8YWzKLlSyMZjokG\nqUNitNt6EOCJmUwzHqp4Mrs/J/9nq8CpoFe3xTNzxrPxrDTSkqqfTSWtNqbYVUZI\nyLd+MGykA8YMwH7/1kNV6T3GMY5Ci+JlUiQ25s/rYttGmaD+tfr4n7uHAoGAEJ+R\nGTlS4MYyknhRGQ55TVX62SGOwYuW6U7B/rtPRMjwCTSTe1iiucLHBhd+7fBDJl1H\nOaH3BcVYFQdKR9AuHHiMYDBI7G8dNSSbiOd+cMHEGkCvqxE1IvGbUUbswpUuR/fE\nqzQHmiCrAWoVkMPjDEh3cFlPOIvwOGWtLFM4W6ECgYEAtyzekOQA1MpSmWHPAj/Y\nBeWoHS3Yy7L5aAFuA52C22aXYkPhvOnnbZiqOyqx0r1HKujUbchA6uZXDlxMNTo3\nN5um6P9PedJ0xD/iwVhmzWmJN23xPBw9Bmaksg3+k5JrZc6nisF36jZy2MmGUhkT\nEofSSWr/lQwhRm2/URK55eY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "xeroapi@lucky-wonder-280516.iam.gserviceaccount.com",
+  "client_id": "109041519132196685621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/xeroapi%40lucky-wonder-280516.iam.gserviceaccount.com"
+}
